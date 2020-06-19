@@ -6,7 +6,6 @@ Usefull Informations
 -
 #### Personal
 Name: Kaio C. de Oliveira
-Country: Brazil
 
 #### Education:
 - Bachelor Degree of Information Systems (2017)
