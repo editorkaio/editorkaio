@@ -7,10 +7,11 @@ Usefull Informations
 #### Personal
 Name: Kaio C. de Oliveira
 Country: Brazil
-#### Education:
 
+#### Education:
 - Bachelor Degree of Information Systems (2017)
 - Bachelor Degree in Accounting (2022)
+
 #### Contacts:
 Phone: +55 93 991668383
 e-Mail: meajuda@kaio.in
