@@ -14,6 +14,4 @@ Name: Kaio C. de Oliveira
 #### Contacts:
 Phone: +55 93 991668383
 
-e-Mail: meajuda@kaio.in
-
-Skype: kaio_oliv 
+e-Mail: hello@kaio.dev
