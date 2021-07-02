@@ -18,5 +18,5 @@ Phone/Whatsapp: +55 93 99166 8383
 Mail: hello@kaio.dev
 
 #### Social
-Linkedin: https://www.linkedin.com/in/devkaio/
-Instagram: https://instagram.com/devkaio
+- Linkedin: https://www.linkedin.com/in/devkaio/
+- Instagram: https://instagram.com/devkaio
