@@ -3,7 +3,7 @@
 
 I'm learning how to develop apps with Flutter.
 
-Useful Informations
+##Useful Informations
 
 #### Education:
 - Bachelor of Information Systems (ago/2017)
