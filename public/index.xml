@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>hello@kaio.dev (Kaio C. de Oliveira)</managingEditor>
+    <webMaster>hello@kaio.dev (Kaio C. de Oliveira)</webMaster>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><author>hello@kaio.dev (Kaio C. de Oliveira)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hey! Thanks for coming by. I am a Flutter Developer learning how to code better every day.&lt;/p&gt;&#xA;&lt;p&gt;But that wasn&amp;rsquo;t always the case. I started my career in 2010 as an IT intern at JUCEA-AM. Then I worked for some time as a web designer focused on CMS like WordPress.&lt;/p&gt;&#xA;&lt;p&gt;In early 2018 I entered for educational sector as Academic Advisor at the same time I came across Flutter. It was love at first sight. Multiplatform development with a single code base, how awesome is that? But I didn&amp;rsquo;t get the time to dedicate to my studies. So in mid-2020 I wrapped my head around it and started my study path for real. Only in 2021 I got my first job opportunity and started working as a Flutter Developer at Raro Labs (MG).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

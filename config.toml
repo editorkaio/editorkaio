@@ -1,0 +1,43 @@
+baseURL = "http://kaio.dev/"
+languageCode = "en-us"
+theme = "nightfall"
+
+[params]
+user = "hello"
+hostname = "kaio.dev"
+
+[params.author]
+name = "Kaio C. de Oliveira"
+email = "hello@kaio.dev"
+
+[menu]
+[[menu.header]]
+name = "projects"
+weight = 0
+url = "projects"
+
+[[menu.header]]
+name = "about"
+weight = 1
+url = "about"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/devkaio"
+target = "_blank"
+aria = "GitHub Profile"
+
+[[params.social]]
+name = "youtube"
+url = "https://youtube.com/devkaio"
+aria = "YouTube"
+
+[[params.social]]
+name = "linkedin"
+url = "https://linkedin.com/in/devkaio"
+aria = "LinkedIn Profile"
+
+[[params.social]]
+name = "email"
+url = "mailto:hello@kaio.dev"
+aria = "My e-mail Address"
